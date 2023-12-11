@@ -7,5 +7,3 @@ const generarJWT = (id) => {
 }
 
 export default generarJWT
-
-//Esto es solo un comentario
